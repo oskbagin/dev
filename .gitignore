@@ -1,0 +1,17 @@
+*.swp
+*/.vscode
+
+# C ignores
+*.hex
+*.bin
+*.elf
+*.map
+*.o
+*.out
+*.exe
+
+# Python ignores
+*.pyc
+*/__pycache__
+
+*/.ipch
